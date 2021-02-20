@@ -1,14 +1,15 @@
-<div style="flex-direction: row">
-<div>
-### Hi 👋
+<div style="fex-direction: row">
+  <div>
+    <h1> Hi 👋 </h1>
 
-- 🔭 I’m currently working on Clean House (is my project)
-- 🌱 I’m currently learning Python
-- ❤️ I love Java and it's my favorite language ❤️
-- 💬 Ask me about JavaScript, React and ❤️JAVA❤️
-</div>        
-<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="some text" width=60 height=40/>  
+    - 🔭 I’m currently working on Clean House (is my project)
+    - 🌱 I’m currently learning Python
+    - ❤️ I love Java and it's my favorite language ❤️
+    - 💬 Ask me about JavaScript, React and ❤️JAVA❤️
+  </div>        
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="some text" width=60 height=40/>  
 </div>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 
 
