@@ -1,22 +1,10 @@
 
-
-
-
- 
-<div style="display: flex; flex-direction: row;">
-  <div align=top>
- <h1> Hi 👋 </h1>
+<h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>         
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
- 
-  </div>
-  
-  <div align=top>
-<img src="Coding_PNG.png" width="200"/>
-  </div>
-  </div>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
  
