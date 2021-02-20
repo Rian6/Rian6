@@ -1,16 +1,16 @@
 
 
-  <h1> Hi 👋 </h1>
+<h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>
-   <h5>- 🌱 I’m currently learning Python</h5> [<img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=300 height=300/>]
- <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>
- 	<h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>    
+<h5>- 🌱 I’m currently learning Python</h5> [<img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=300 height=300/>]
+<h5>- ❤️ I love Java and it's my favorite language ❤️</h5>
+<h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>    
 
 
-| Primeiro cabeçalho  |  Segundo cabeçalho  |
-| ------------------- | ------------------- |
-|  Célula de conteúdo |  Célula de conteúdo |
-|  Célula de conteúdo |  Célula de conteúdo |
+ Primeiro cabeçalho    Segundo cabeçalho  
+ -------------------  ------------------- 
+  Célula de conteúdo   Célula de conteúdo 
+  Célula de conteúdo   Célula de conteúdo 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
       
