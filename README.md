@@ -4,7 +4,7 @@
 
  
 <div align="center">
-  <div style="display: flex; align-items: flex-start;">
+  <div style="display: flex; flex-direction: row;">
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
