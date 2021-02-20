@@ -2,6 +2,7 @@
 
 
 
+[<img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=300 height=300/>]()
 
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>
@@ -9,10 +10,11 @@
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>  
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>    
 
-<img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=300 height=300/> 
-
+-------------------------------------------------------------------------------------------------------
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+      
+[<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width=50 height=50/>]() [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=50 height=50>]()    
       
 Social Media      
 -------------------------------------------------------------------------------------------------------      
