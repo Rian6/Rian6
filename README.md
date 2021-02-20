@@ -1,11 +1,7 @@
 
 
    <div style="display: flex; flex-direction: row;">
-|   |   |   |   |   |
-|---|---|---|---|---|
-|   |   |   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
+|
   <div >
          <h1> Hi 👋 </h1>
          <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>
@@ -18,8 +14,7 @@
   <div>
   <img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=300 height=300/>  
     </div>
-
-
+    |
 </div>
 
       
