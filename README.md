@@ -17,7 +17,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
  
- [<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width=50 height=50/>]() [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=50 height=50>]() [<img src = "https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" width=50 height=50>]() [<img src = "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=50 height=50>]() [<img src = "html.png" width=50 height=50>]() [<img src = "css.png" width=50 height=50>]() [<img src = "js.png" width=50 height=50>]()
+ [<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width=50 height=50/>]() [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=50 height=50>]() [<img src = "https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" width=50 height=50>]() [<img src = "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=50 height=50>]() [<img src = "https://www.w3.org/html/logo/badge/html5-badge-h-css3-semantics.png" width=50 height=50>]() [<img src = "css.png" width=50 height=50>]() [<img src = "js.png" width=50 height=50>]()
  
 Social Media      
 -------------------------------------------------------------------------------------------------------      
