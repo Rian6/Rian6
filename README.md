@@ -7,10 +7,10 @@
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>    
 
 
- Primeiro cabeçalho    Segundo cabeçalho  
- -------------------  ------------------- 
-  Célula de conteúdo   Célula de conteúdo 
-  Célula de conteúdo   Célula de conteúdo 
+ Primeiro cabeçalho  |  Segundo cabeçalho  
+ ------------------- | ------------------- 
+  Célula de conteúdo |  Célula de conteúdo 
+  Célula de conteúdo |  Célula de conteúdo 
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
       
