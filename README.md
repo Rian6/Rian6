@@ -7,7 +7,7 @@
    - 💬 Ask me about JavaScript, React and ❤️JAVA❤️
   </div>        
   
-  <img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=150 height=150/>  
+  <img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width=300 height=300/>  
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
