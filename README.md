@@ -3,8 +3,8 @@
 
 
  
-<div align="center">
-  <div style="display: flex; flex-direction: row;">
+<div style="display: flex; flex-direction: row;">
+  <div>
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
@@ -14,9 +14,7 @@
   </div>
   
   <div style="display: flex; align-items: flex-start;">
- <td style="border: none;">
 <img src="Coding_PNG.png" width="200"/>
-
   </div>
   </div>
 
