@@ -4,7 +4,7 @@
 
  
 <div style="display: flex; flex-direction: row;">
-  <div>
+  <div align=top>
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
@@ -13,7 +13,7 @@
  
   </div>
   
-  <div style="display: flex; align-items: flex-start;">
+  <div align=top>
 <img src="Coding_PNG.png" width="200"/>
   </div>
   </div>
