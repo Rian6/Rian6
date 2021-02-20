@@ -3,19 +3,22 @@
 
 
  
-<table style="border: none;">
-  <tr style="border: none;">
- <td style="border: none;">
+<div align="center">
+  <div style="display: flex; align-items: flex-start;">
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>         
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
- </td>
+ 
+  </div>
+  
+  <div style="display: flex; align-items: flex-start;">
  <td style="border: none;">
 <img src="Coding_PNG.png" width="200"/>
-</td>
-</table>
+
+  </div>
+  </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
  
