@@ -7,7 +7,8 @@
 <h5>- 🌱 I’m currently learning Python</h5>                        
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>         
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
-<div width="45%"> <img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" width="45%"/>
+<div width="45%"> <img src="Coding_PNG.png" width="250"/>
+
 
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
       
