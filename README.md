@@ -3,17 +3,19 @@
 
 
  
- <p align="center" style="flex-direction: row;">
-<div width="45%">
+<table>
+  <tr>
+ <td>
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>         
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
-<div width="45%"> 
- 
+ </td>
+ <td valign="top">
 <img src="Coding_PNG.png" width="200"/>
-</p> 
+</td>
+</table>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
  
