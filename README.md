@@ -5,7 +5,9 @@
    - 🌱 I’m currently learning Python
    - ❤️ I love Java and it's my favorite language ❤️
    - 💬 Ask me about JavaScript, React and ❤️JAVA❤️
-  </div>        <img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" alt="some text" width=60 height=40/>  
+  </div>        
+  
+  <img src="https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png" alt="some text" width=1500 height=150/>  
 </div>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
