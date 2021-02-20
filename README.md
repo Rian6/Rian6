@@ -3,7 +3,7 @@
 
 
  
-<table border="1" cellspacing="0" rules="none">
+<table border="0" cellspacing="0" rules="none">
   <tr>
  <td>
  <h1> Hi 👋 </h1>
