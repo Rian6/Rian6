@@ -3,7 +3,7 @@
 
 
  
- <p align="center">
+ <p align="center" style="flex-direction: row;">
 <div width="45%">
  <h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
