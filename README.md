@@ -3,7 +3,7 @@
 
 
  
-<table border="0">
+<table style="border: 0px; ">
   <tr>
  <td>
  <h1> Hi 👋 </h1>
