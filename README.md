@@ -9,10 +9,14 @@
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
 <div width="45%"> 
  
-<img src="Coding_PNG.png" width="250"/>
+ --------------------------------------------------------
+ 
+<img src="Coding_PNG.png" width="200"/>
  
  [<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width=50 height=50/>]() [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=50 height=50>]()    
- 
+
+---------------------------------------------------------
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
       
 Social Media      
