@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - ❤️ I love Java and it's my favorite language ❤️
 - 💬 Ask me about JavaScript, React and ❤️JAVA❤️
-        <div data-v-04031a2b="" class="image" style="background-image: url(&quot;https://ouch-cdn.icons8.com/preview/812/6f20c062-d79f-4269-b43e-9d8510fedacc.png&quot;);"></div>
- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-  
+        
+<img src="https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats" alt="some text" width=60 height=40/>  
+
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/rian-m-9535b9116/) [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/rian_mendes5/)
