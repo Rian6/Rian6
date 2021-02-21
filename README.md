@@ -6,7 +6,7 @@
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian6&show_icons=true&theme=dracula)
 
 Languages and Tools      
 -------------------------------------------------------------------------------------------------------      
