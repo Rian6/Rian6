@@ -1,7 +1,6 @@
 <h1> Hi 👋 </h1>
    <img src="pm.png" min-width="200px" max-width="200px" width="300px" align="right">
    <br>
-<h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>         
 <h5>- 💬 Ask me about JavaScript, React and ❤️JAVA❤️</h5>          
