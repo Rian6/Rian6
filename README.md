@@ -1,6 +1,6 @@
+<h1> Hi 👋 </h1>
    <img src="https://marketing-image-production.s3.amazonaws.com/uploads/d2b971c007fdca5cb7dea339f9433384f218ad2b3c918004b6e472e05cd7fdecbd74846dd31f7bf72efdff6da15167fa27fe2f5056c8459ba62eb11168356083.png" min-width="300px" max-width="300px" width="300px" align="right">
    <br>
-<h1> Hi 👋 </h1>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
 <h5>- ❤️ I love Java and it's my favorite language ❤️</h5>         
