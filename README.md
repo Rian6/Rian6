@@ -1,5 +1,5 @@
 <h1> Hi 👋 </h1>
-   <img src="undraw_Dev_focus_re_6iwt.png" min-width="300px" max-width="300px" width="300px" align="right">
+   <img src="undraw_Programming_re_kg9v.png" min-width="300px" max-width="300px" width="300px" align="right">
    <br>
 <h5>- 🔭 I’m currently working on Clean House (is my project)</h5>  
 <h5>- 🌱 I’m currently learning Python</h5>                        
