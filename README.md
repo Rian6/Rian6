@@ -1,10 +1,5 @@
-<h1> Ola 👋 </h1>
    <img src="pm.png" min-width="200px" max-width="200px" width="300px" align="right">
-   <br>
-<h5>- Programador fullstack</h5>                        
-<h5>- Programador Java, Python, JavaScript e Sql</h5>          
-
-
+   <br>                       
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian6&show_icons=true&theme=dracula)
 
 Languages and Tools      
