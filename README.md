@@ -1,6 +1,3 @@
-   <img src="pm.png" min-width="200px" max-width="200px" width="300px" align="right">
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rian6&show_icons=true&theme=dracula)
-
 Languages and Tools      
 -------------------------------------------------------------------------------------------------------      
  [<img src="https://cdn.iconscout.com/icon/free/png-512/java-43-569305.png" width=50 height=50/>]() [<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width=50 height=50>]() [<img src = "https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" width=50 height=50>]() [<img src = "https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" width=40 height=40>]() [<img src = "html.png" width=40 height=40>]() [<img src = "css.png" width=40 height=40>]() [<img src = "js.png" width=40 height=40>]()
